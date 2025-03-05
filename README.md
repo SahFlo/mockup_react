@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## TODO pour demain
+
+Il faut que je vérifie qu'il ne traîne pas des trucs bizarres dans mes fichiers car à l'install apparemment il y a beaucoup d'inutile  
+Il faut que je fasse un App.js qui tienent compte de la navigation  
+Il faut que je finisse de créer mes composants  
+Il faut que je travaille sur la partie css  
+Je peux essayer de continuer à regarder cette vidéo mais elle me paraît rapide et difficile d'accès pour la débutante queje suis [Apprendre REACT.JS en 1 HEURE (l'ESSENTIEL en 2024)](https://www.youtube.com/watch?v=h2a0cSC1Vz8)
+
 ## Available Scripts
 
 In the project directory, you can run:
