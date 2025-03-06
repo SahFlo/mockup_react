@@ -1,0 +1,25 @@
+@import './navigation';
+@import './home';
+@import './card';
+@import './logo';
+@import './searchbar';
+@import './about';
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  
+  &-header {
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+  }
+}
